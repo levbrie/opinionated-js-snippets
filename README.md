@@ -24,7 +24,7 @@ Install via package control: http://wbond.net/sublime_packages/community Search 
 ### directly on Mac OS X
 
 ```sh
-git clone git:/github.com/levbrie/js-snippets.git /Users/YOUR_USER_NAME/Library/Application\ Support/Sublime\ Text\ 3/Packages/
+git clone https://github.com/levbrie/opinionated-js-snippets.git ~/Library/Application Support/Sublime Text 3/Packages/
 ```
 
 ## The Snippets
