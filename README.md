@@ -5,7 +5,7 @@ A more opinionated for version of https://github.com/jprichardson/sublime-js-sni
 <!-- MarkdownTOC depth=3 -->
 
 - [Install](#install)
-  - [via package control](#via-package-control)
+  - [via package control (not yet approved)](#via-package-control-not-yet-approved)
   - [directly on Mac OS X](#directly-on-mac-os-x)
 - [The Snippets](#the-snippets)
   - [Vanilla Snippets](#vanilla-snippets)
@@ -18,7 +18,7 @@ A more opinionated for version of https://github.com/jprichardson/sublime-js-sni
 
 ## Install
 
-### via package control
+### via package control (not yet approved)
 Install via package control: http://wbond.net/sublime_packages/community Search for **JavaScript Snippets** or typically the keywords **js** or **javascript** are suitable.
 
 ### directly on Mac OS X
