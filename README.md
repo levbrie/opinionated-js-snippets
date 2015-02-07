@@ -34,6 +34,7 @@ A more opinionated for version of https://github.com/jprichardson/sublime-js-sni
     - [](#ita)
     - [](#its)
 - [Inspiration](#inspiration)
+- [More on Sublime Text Packages](#more-on-sublime-text-packages)
 
 <!-- /MarkdownTOC -->
 
@@ -244,3 +245,8 @@ it('${1:description}', function() {
 ## Inspiration
 
 Originally forked from and almost entirely based on/inspired by [JP Richardson's sublime-js-snippets](https://github.com/jprichardson/sublime-js-snippets) - I just tend to follow stricter coding practices with semicolons and the like.
+
+## More on Sublime Text Packages
+
+For info on creating and submitting packages to package control go to:
+https://packagecontrol.io/docs/submitting_a_package
