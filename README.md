@@ -2,37 +2,14 @@
 
 A more opinionated for version of https://github.com/jprichardson/sublime-js-snippets, following current best practices.  Designed with strict linters in mind.
 
-<!-- MarkdownTOC -->
+<!-- MarkdownTOC depth=3 -->
 
 - [Install](#install)
   - [via package control](#via-package-control)
   - [directly on Mac OS X](#directly-on-mac-os-x)
 - [The Snippets](#the-snippets)
   - [Vanilla Snippets](#vanilla-snippets)
-    - [](#afn)
-    - [](#bea)
-    - [](#bei)
-    - [](#bes)
-    - [](#cd)
-    - [](#ce)
-    - [](#cl)
-    - [](#cli)
-    - [](#ct)
-    - [](#fn)
-    - [](#ii)
-    - [](#iius)
-    - [](#me)
-    - [](#okfe)
-    - [](#pe)
-    - [](#proto)
-    - [](#req)
-    - [](#sto)
-    - [](#sti)
-    - [](#us)
   - [BDD Snippets (Behavior-Driven Development)](#bdd-snippets-behavior-driven-development)
-    - [](#desc)
-    - [](#ita)
-    - [](#its)
 - [Inspiration](#inspiration)
 - [More on Sublime Text Packages](#more-on-sublime-text-packages)
 
