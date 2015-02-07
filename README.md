@@ -1,6 +1,6 @@
 ## Opinionated JavaScript Snippets for Sublime Text 3
 
-A more opinionated for version of https://github.com/jprichardson/sublime-js-snippets, following best practices
+A more opinionated for version of https://github.com/jprichardson/sublime-js-snippets, following current best practices.  Designed with strict linters in mind.
 
 <!-- MarkdownTOC -->
 
